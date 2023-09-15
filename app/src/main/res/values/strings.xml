@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FindMe</string>
+    <string name="login_btn_text">Click to Move to DetailsScreen</string>
+    <string name="login_til_hint_msg">Enter the data</string>
+    <string name="args_passed_login_detail_screen">You Entered: %1$s</string>
+    <string name="login_btn_t">Click to Move to DetailsScreen</string>d
+</resources>
